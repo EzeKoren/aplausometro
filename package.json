@@ -1,0 +1,28 @@
+{
+  "name": "aplausometro",
+  "version": "1.0.0",
+  "description": "An audio visualizer meant to display the loudness of clapping",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzeKoren/aplausometro.git"
+  },
+  "keywords": [
+    "Aplausometro",
+    "Aplauso",
+    "Clap",
+    "Meter",
+    "Clap",
+    "meter",
+    "Clap-o-meter"
+  ],
+  "author": "Ezequiel Korenblum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EzeKoren/aplausometro/issues"
+  },
+  "homepage": "https://github.com/EzeKoren/aplausometro#readme"
+}
